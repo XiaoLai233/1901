@@ -1,0 +1,20 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+b{
+    font-weight: bold;
+}
+.a{
+    color: gray;
+    font-size: x-small;
+}
+.b{
+    color: gray;
+    font-size: small;
+}
+.c{
+    text-align: right;
+}
